@@ -1,0 +1,43 @@
+@media only screen and (max-width:400px){
+    .gt::before {
+        top: 15.694vw !important;
+        left: 0.694vw !important;
+    }
+    .grid-gioithieu {
+        grid-template-columns: repeat(1,1fr) !important;
+        grid-gap: 0px !important;
+    }
+    .responGT{
+        width: 90vw;
+        margin-top: 50px;
+    }
+    .box-GT{
+        padding-top: 60px !important;
+        padding-left: 0px !important;
+    } 
+    .gt {
+        gap: 1.389vw !important;
+        font-size: 6.550vw !important;
+        margin-bottom: 0 !important;
+
+    }
+    .gt::after {
+        
+        left: 7.778vw !important;
+        top: 12.306vw!important;
+    }
+    .fontRainTKTC {
+        font-size: 4.415vw !important;
+        top: 60% !important;
+    }
+    .hover-box_bold::after {
+        top: 5.431vw !important;
+        height: 0.347vw !important;
+    }
+    .section-handbook__box-time {
+        font-size: 16px;
+        padding: 5px 10px;
+        right: -0.694vw;
+        top: 275px;
+    }
+}

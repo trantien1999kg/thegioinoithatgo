@@ -1,0 +1,11 @@
+@media only screen and (min-width:400px) and (max-width:600px){
+    
+    .section-handbook__box-time {
+        font-size: 16px;
+        padding: 5px 10px;
+        right: -0.694vw;
+        right: -8px;
+        top: 310px;
+    }
+    
+}

@@ -1,0 +1,14 @@
+@media only screen and (max-width:960px) and (min-width:810px){
+    .grid-gioithieu {
+        grid-template-columns: repeat(2,1fr) !important;
+        grid-gap: 10px !important;
+    }
+    .gt {
+        font-size: calc(( 47.46 * 100vw ) / 960 );
+    }
+    .hover-products_bold {
+        bottom: 0.417vw;
+        font-size: 1.7vw !important;
+    }
+
+}
