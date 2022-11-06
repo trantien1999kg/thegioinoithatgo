@@ -23,9 +23,7 @@ FRAMEWORK={
             FRAMEWORK.searchBv();
 
         }else{
-
             FRAMEWORK.loginPage();
-
         }
 
         FRAMEWORK.menuBar();
