@@ -14,7 +14,7 @@
 
 			'server-name'=>$_SERVER['SERVER_NAME'],
 
-			'url'=>'/',
+			'url'=>'/web-vietfur-0110622w/',
 
 			'debug-css' => false,
 
@@ -48,19 +48,19 @@
 
 
 
-			'username' => 'thegi648_db',
+			'username' => 'root',
 
 
 
-			'password' => 'uBQWbJCtx',
+			'password' => '',
 
 
 
-			'url'=>'/upload/',
+			'url'=>'web-vietfur-0110622w/upload/',
 
 
 
-			'dbname'=> 'thegi648_db',
+			'dbname'=> 'db_tgntg',
 
 
 
@@ -150,9 +150,7 @@
 
 			'products/product'=>'Sản phẩm',
 
-			'news/news'=>'Tin tức',
-
-			'news/news'=>'Thiết Kế Thi Công',
+			'news/news'=>'Tin tức, dịch vụ',
 
 			'news/news_detail'=>'Trang chi tiết bài viết',
 
