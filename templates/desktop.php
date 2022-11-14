@@ -28,7 +28,7 @@
         <?php }?>
         <?php include _template.$template."_tpl.php";?>
         <?php include _sections."footer.php"; ?>
-        <?php include _sections."copyRight.php"; ?>
+        
     </div>
     <?php include _sections."tool.php"; ?>
     <?php include _sections."goto.php"; ?>
